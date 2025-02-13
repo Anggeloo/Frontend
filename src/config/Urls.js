@@ -4,10 +4,10 @@ export const urlSocket  = 'http://localhost:5201/workerhub' // es la url del ser
 export const urlHistory = 'http://localhost:3010/graphql' // es la url del servicio de history
 
 export const urlProduct = {
-    search : 'http://localhost:5050/products',
-    create : 'http://localhost:5050/products',
-    update : 'http://localhost:5050/products',
-    delete : 'http://localhost:5050/products',
+    search : 'http://23.22.33.173:5050/products',
+    create : 'http://23.22.33.173:5050/products',
+    update : 'http://23.22.33.173:5050/products',
+    delete : 'http://23.22.33.173:5050/products',
 }
 
 export const urlInventory = {
